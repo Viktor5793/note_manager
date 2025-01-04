@@ -1,8 +1,3 @@
-# from add_list import username, titles, content, status, created_date, issue_date
-#
-# note = [f"usersname {username}", f"Название: {titles}", f"Контент: {content}"]
-# print(*note, sep="\n")
-
 # Запрашиваем у пользователя информацию для создания заметки
 username = input("Введите имя пользователя: ")
 content = input("Введите описание заметки: ")
